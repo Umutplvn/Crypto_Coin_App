@@ -3,7 +3,7 @@
 
 # Project-005 : Crypto-Coin-App (JS-05)
 
-# Live at: https://umutplvn.github.io/Crypto_Coin_App/
+## Live at: https://umutplvn.github.io/Crypto_Coin_App/
 
 ## Description
 Project aims to display current data of searched crypto coin around the world with fetching Crypto Coin Api data.
